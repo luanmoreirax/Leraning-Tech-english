@@ -1,4 +1,4 @@
-# Leraning Tech english :desktop_computer:
+# Learning Tech english :desktop_computer:
 Olá, sejam bem vindos!
 Esse espaço se propõe a divulgar links para aprimorar as skills na Língua Inglesa na área de programação. :earth_americas:
 
